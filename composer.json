@@ -1,5 +1,5 @@
 {
-    "name": "optimalpayments/optimal-php-sdk",
+    "name": "fortifi/optimal-php-sdk",
     "type": "library",
     "description": "PHP SDK for the Optimal Payments API",
     "keywords" : ["payment", "payment processing", "netbanx", "optimal", "sdk"],
